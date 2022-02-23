@@ -1,0 +1,3 @@
+correção do tempo entre chamadas idle não funcionou
+
+glutSwapBuffers(): porque nao em cada elemento
